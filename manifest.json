@@ -1,0 +1,17 @@
+{
+  "name": "Teste de Prosperidade - Suellen Seragi",
+  "short_name": "Teste Prosperidade",
+  "description": "Descubra qual padrão mental está bloqueando sua prosperidade",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ed",
+  "theme_color": "#d1ad6f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
